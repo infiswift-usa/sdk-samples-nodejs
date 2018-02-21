@@ -1,0 +1,12 @@
+{
+  "name": "mqtt-example-nodejs",
+  "version": "1.0.0",
+  "description": "SDK - MQTT example for Infiswift IOT Platform using NodeJS",
+  "main": "mqtt_nodejs.js",
+  "author": "Infiswift Technologies Inc.",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^2.15.3",
+    "fs": "0.0.2"
+  }
+}
